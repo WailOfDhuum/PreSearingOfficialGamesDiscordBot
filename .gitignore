@@ -1,0 +1,10 @@
+#ignoring specific files
+/.vs
+/PreSearingOfficialGames/bin
+/PreSearingOfficialGames/obj
+/PreSearingOfficialGamesBotUnitTests/bin
+/PreSearingOfficialGamesBotUnitTests/obj
+/PreSearingOfficialGamesDiscordBot/bin
+/PreSearingOfficialGamesDiscordBot/obj
+/PreSearingOfficialGamesDiscordBot/appsettings.json
+TestResults
